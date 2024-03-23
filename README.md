@@ -9,7 +9,7 @@
 [![kahuuchino's GitHub stats](https://github-readme-stats.vercel.app/api?username=kahuuchino)](https://github.com/kahuuchino/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-31%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-20%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -82,7 +82,7 @@ Verilog                  1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/kahuuchino/kahuuchino/main/assets/bar_graph.png)
 
 
- Last Updated on 23/03/2024 14:40:07 UTC
+ Last Updated on 23/03/2024 18:33:15 UTC
 <!--END_SECTION:waka-->
 
 <!--
