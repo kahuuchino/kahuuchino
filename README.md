@@ -9,7 +9,7 @@
 [![kahuuchino's GitHub stats](https://github-readme-stats.vercel.app/api?username=kahuuchino)](https://github.com/kahuuchino/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-31%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%20hr%2013%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -52,17 +52,18 @@ Sunday                   4 commits           █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-V                        31 mins             █████████████████████████   100.00 % 
+V                        1 hr 13 mins        █████████████████████████   100.00 % 
 
 🔥 Editors: 
-VS Code                  31 mins             █████████████████████████   100.00 % 
+VS Code                  1 hr 13 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-dpc_hw                   30 mins             ████████████████████████░   97.80 % 
-viterbit_hw              0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.20 % 
+dpc_hw                   59 mins             ████████████████████░░░░░   81.09 % 
+router                   13 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.98 % 
+viterbit_hw              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.93 % 
 
 💻 Operating System: 
-Windows                  31 mins             █████████████████████████   100.00 % 
+Windows                  1 hr 13 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -82,7 +83,7 @@ Verilog                  1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/kahuuchino/kahuuchino/main/assets/bar_graph.png)
 
 
- Last Updated on 25/03/2024 18:33:28 UTC
+ Last Updated on 26/03/2024 18:33:54 UTC
 <!--END_SECTION:waka-->
 
 <!--
