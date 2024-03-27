@@ -9,7 +9,7 @@
 [![kahuuchino's GitHub stats](https://github-readme-stats.vercel.app/api?username=kahuuchino)](https://github.com/kahuuchino/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%20hr%2013%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%20hrs%2052%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -17,7 +17,7 @@
 
 > 📦 63.7 kB Used in GitHub's Storage 
  > 
-> 🏆 6 Contributions in the Year 2024
+> 🏆 0 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -52,18 +52,19 @@ Sunday                   4 commits           █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-V                        1 hr 13 mins        █████████████████████████   100.00 % 
+V                        2 hrs 52 mins       █████████████████████████   100.00 % 
 
 🔥 Editors: 
-VS Code                  1 hr 13 mins        █████████████████████████   100.00 % 
+VS Code                  2 hrs 52 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-dpc_hw                   59 mins             ████████████████████░░░░░   81.09 % 
-router                   13 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.98 % 
-viterbit_hw              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.93 % 
+dpc_hw                   1 hr 55 mins        █████████████████░░░░░░░░   66.86 % 
+Source_file              38 mins             ██████░░░░░░░░░░░░░░░░░░░   22.14 % 
+router                   15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.91 % 
+viterbit_hw              3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.09 % 
 
 💻 Operating System: 
-Windows                  1 hr 13 mins        █████████████████████████   100.00 % 
+Windows                  2 hrs 52 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -83,7 +84,7 @@ Verilog                  1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/kahuuchino/kahuuchino/main/assets/bar_graph.png)
 
 
- Last Updated on 26/03/2024 18:33:54 UTC
+ Last Updated on 27/03/2024 18:33:38 UTC
 <!--END_SECTION:waka-->
 
 <!--
