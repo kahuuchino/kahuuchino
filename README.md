@@ -9,15 +9,13 @@
 [![kahuuchino's GitHub stats](https://github-readme-stats.vercel.app/api?username=kahuuchino)](https://github.com/kahuuchino/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%20hrs%2052%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%20hrs%2022%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 63.7 kB Used in GitHub's Storage 
- > 
-> 🏆 0 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -52,19 +50,20 @@ Sunday                   4 commits           █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-V                        2 hrs 52 mins       █████████████████████████   100.00 % 
+V                        3 hrs 19 mins       █████████████████████████   98.56 % 
+JSON                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.44 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 52 mins       █████████████████████████   100.00 % 
+VS Code                  3 hrs 22 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-dpc_hw                   1 hr 55 mins        █████████████████░░░░░░░░   66.86 % 
-Source_file              38 mins             ██████░░░░░░░░░░░░░░░░░░░   22.14 % 
-router                   15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.91 % 
-viterbit_hw              3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.09 % 
+dpc_hw                   2 hrs 25 mins       ██████████████████░░░░░░░   71.75 % 
+Source_file              38 mins             █████░░░░░░░░░░░░░░░░░░░░   18.88 % 
+router                   15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.60 % 
+viterbit_hw              3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.78 % 
 
 💻 Operating System: 
-Windows                  2 hrs 52 mins       █████████████████████████   100.00 % 
+Windows                  3 hrs 22 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -84,7 +83,7 @@ Verilog                  1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/kahuuchino/kahuuchino/main/assets/bar_graph.png)
 
 
- Last Updated on 27/03/2024 18:33:38 UTC
+ Last Updated on 28/03/2024 18:34:57 UTC
 <!--END_SECTION:waka-->
 
 <!--
