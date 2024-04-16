@@ -9,7 +9,7 @@
 [![kahuuchino's GitHub stats](https://github-readme-stats.vercel.app/api?username=kahuuchino)](https://github.com/kahuuchino/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-17%20hrs%2049%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-18%20hrs%2046%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -50,9 +50,8 @@ Sunday                   4 commits           █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-V                        5 hrs 52 mins       ████████████████████████░   97.50 % 
-Markdown                 6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.79 % 
-SSH Config               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.71 % 
+V                        5 hrs 55 mins       █████████████████████████   98.28 % 
+Markdown                 6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.72 % 
 
 🔥 Editors: 
 VS Code                  6 hrs 1 min         █████████████████████████   100.00 % 
@@ -82,7 +81,7 @@ Verilog                  1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/kahuuchino/kahuuchino/main/assets/bar_graph.png)
 
 
- Last Updated on 15/04/2024 18:35:01 UTC
+ Last Updated on 16/04/2024 18:32:58 UTC
 <!--END_SECTION:waka-->
 
 <!--
