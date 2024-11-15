@@ -2,7 +2,7 @@
 
 ## I'm kahuuchino, a hardware engineer!
 
-- 🌱 I’m currently studying in Northeastern University(China)!
+- 🌱 I’m currently pursuing a doctoral degree at Sun Yat-sen University!
 - 🔭 I’m currently working on FPGA!
 - 🤔 I’m looking for help with computer vision!
 
